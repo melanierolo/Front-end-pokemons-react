@@ -1,0 +1,10 @@
+.poke-item {
+  padding: 0 0 15px 0px;
+  border-radius: 5px;
+  width: 13rem;
+  height: 17rem;
+}
+.pokecard-item-img {
+  width: 7rem;
+  height: 100px;
+}

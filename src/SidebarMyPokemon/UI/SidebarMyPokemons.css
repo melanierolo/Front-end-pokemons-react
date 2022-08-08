@@ -1,0 +1,15 @@
+.sidebar {
+  background-color: #3b5ba7;
+  box-shadow: 0 0 8px 4px rgba(0, 0, 0, 0.2);
+  min-height: 1000px;
+}
+
+.sidebar__title {
+  color: whitesmoke;
+  font-family: "Edu VIC WA NT Beginner", cursive;
+  font-family: "Lora", serif;
+}
+
+.sidebar__paragraph {
+  color: #ffcb05;
+}
